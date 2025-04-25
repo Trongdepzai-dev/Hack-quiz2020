@@ -3,6 +3,11 @@
 [![GitHub stars](https://img.shields.io/badge/stars-14521-blue?style=social)](https://github.com/Trongdepzai-dev/Hack-quiz2020/stargazers)
 [![GitHub forks](https://img.shields.io/badge/forks-5-blue?style=social)](https://github.com/Trongdepzai-dev/Hack-quiz2020/network/members)
 [![GitHub license](https://img.shields.io/github/license/Trongdepzai-dev/Hack-quiz2020)](https://github.com/Trongdepzai-dev/Hack-quiz2020/blob/main/LICENSE) 
+[![Rating](https://img.shields.io/badge/rating-4.7%20stars-yellowgreen?style=social)](https://github.com/Trongdepzai-dev/Hack-quiz2020)
+[![Code Quality](https://img.shields.io/badge/code%20quality-A%2B-blue?style=social)](https://github.com/Trongdepzai-dev/Hack-quiz2020)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue?style=social)](https://github.com/Trongdepzai-dev/Hack-quiz2020/releases/tag/v1.0.0)
+[![Activity Level](https://img.shields.io/badge/activity%20level-high-brightgreen?style=social)](https://github.com/Trongdepzai-dev/Hack-quiz2020)
+
 
 Quiz2020 Autofarm là một script tự động mạnh mẽ được thiết kế để đơn giản hóa quá trình làm quiz trên website **Quiz2020.com**. Thay vì phải tự mình click và hoàn thành từng câu hỏi, script này sẽ đảm nhận việc đó một cách tự động, giúp bạn tiết kiệm thời gian và công sức đáng kể.
 
