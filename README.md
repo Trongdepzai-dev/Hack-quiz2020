@@ -27,6 +27,6 @@
 
 ```javascript
 const FIXED_NAME   = 'H@acker'; // Chỉnh tên ở đây
-const COUNT_START  = 5;         // Đếm ngược reload
-const BEEP_ENABLED = true;      // Bật âm báo khi hoàn thành
+const COUNT_START  = 5;         // Đếm ngược reload 
+const BEEP_ENABLED = true;      // Bật âm báo khi hoàn thành nếu ko muốn đổi lệnh const BEEP_ENABLED = true; thành const BEEP_ENABLED = false;
 const PAUSE_BETWEEN_RUNS = 2000; // Thời gian nghỉ giữa các lượt (ms)
