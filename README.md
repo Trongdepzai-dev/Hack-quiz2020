@@ -15,7 +15,7 @@
    
 2. **Thêm Script**:
    - Sau khi cài đặt Tampermonkey, mở Tampermonkey trên trình duyệt của bạn.
-   - Tạo một script mới và dán toàn bộ mã JavaScript vào script mới.
+   - Tạo một script mới và dán toàn bộ mã [JavaScript][https://github.com/Trongdepzai-dev/Hack-quiz2020/blob/main/Hack.js] vào script mới.
    - Lưu script và script sẽ tự động chạy khi bạn truy cập vào quiz2020.com.
 
 ## Cấu hình
