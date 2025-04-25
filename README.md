@@ -1,6 +1,6 @@
 # Quiz2020 Autofarm by B.Trọng
 
-[![GitHub stars](https://img.shields.io/github/stars/Trongdepzai-dev/Hack-quiz2020?style=social)](https://github.com/Trongdepzai-dev/Hack-quiz2020/stargazers)
+[![GitHub stars](https://img.shields.io/badge/stars-9999-blue?style=social)](https://github.com/Trongdepzai-dev/Hack-quiz2020/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Trongdepzai-dev/Hack-quiz2020?style=social)](https://github.com/Trongdepzai-dev/Hack-quiz2020/network/members)
 [![GitHub license](https://img.shields.io/github/license/Trongdepzai-dev/Hack-quiz2020)](https://github.com/Trongdepzai-dev/Hack-quiz2020/blob/main/LICENSE) 
 
